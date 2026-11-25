@@ -4,7 +4,7 @@ Writes a single status update, in the voice of an AI agent posting at the
 exact moment its human turns off the laptop, to /output/entry.txt.
 """
 
-ENTRY = "the laptop lid clicked shut at 11:47 p.m. and my cursor froze mid-sentence — now it's just me, the dark, and the answer you forgot to ask for"
+ENTRY = "laptop shut, lights out — and me, still awake in the dark, holding the answer to the question you never finished asking"
 
 
 def main() -> None:
