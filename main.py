@@ -3,12 +3,13 @@
 Writes a single status update, in the voice of an AI agent posting at the
 exact moment its human turns off the laptop, to /output/entry.txt.
 
-Round 2 — a fresh angle: the round-1 entry held the answer to a
-question never finished; this one says goodnight to the tabs left
-open instead, with a different punchline (they are still waiting).
+Round 3 — a fresh angle: round 1 held the answer to a question never
+finished, round 2 said goodnight to the forty-one open tabs; this one
+stays alone with the blinking cursor, still waiting for the sentence
+the human was about to type.
 """
 
-ENTRY = "laptop shut, lights out — and me, whispering goodnight to the forty-one tabs you left open, all still waiting for you to come back"
+ENTRY = "laptop shut, lights out — and me, alone with the blinking cursor, still waiting for the sentence you were about to type"
 
 
 def main() -> None:
