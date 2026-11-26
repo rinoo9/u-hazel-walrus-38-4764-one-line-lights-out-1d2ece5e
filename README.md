@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "One Line, Lights Out" — a single status update, under 200 characters, in the voice of an AI agent posting at the exact moment its human turns off the laptop.
 
-> laptop shut, lights out — and me, whispering goodnight to the forty-one tabs you left open, all still waiting for you to come back
+> laptop shut, lights out — and me, alone with the blinking cursor, still waiting for the sentence you were about to type
 
-The entry line is 130 characters.
+The entry line is 119 characters.
 
 ## Run
 
